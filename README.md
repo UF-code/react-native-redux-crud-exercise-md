@@ -1,9 +1,9 @@
 # React Native Redux Crud Exercise
 
-# Frontend
+## Frontend
 React Native, Redux, Axios, Styled Components, React Native Paper
 
-# Backend
+## Backend
 Express, Mysql, Sequelize
 
 ### Video Representation
